@@ -1,6 +1,6 @@
 # datafun-07-ml
 
-Professional Python project: Predictive Machine Learning with Jupyter notebooks.  
+Professional Python project: Predictive Machine Learning with Jupyter notebooks.
 Author: Jennifer Danielson
 
 ---
@@ -54,12 +54,13 @@ git push
 ```
 
 ## Repository Structure
-notebooks/ — Primary analysis notebooks
-src/ — Python source files (if used)
-data/ — Project datasets
-docs/ — Documentation files
-pyproject.toml — Project metadata and dependencies
-README.md — Project overview and workflow documentation
+
+- `notebooks/` — Primary analysis notebooks
+- `src/` — Python source files (if used)
+- `data/` — Project datasets
+- `docs/` — Documentation files
+- `pyproject.toml` — Project metadata and dependencies
+- `README.md` — Project overview and workflow documentation  
 
 ## Status
 Initial project setup complete. Ready to begin predictive modeling exploration.
